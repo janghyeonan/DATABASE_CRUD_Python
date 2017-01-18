@@ -1,4 +1,4 @@
-﻿#- 파이썬을 이용하여 mysql inset문, select문
+﻿#- 파이썬을 이용하여 mysql inset, select
 
 ##Database_Mysql_Insert.py
 >: 순서대로 추출된 로또 번호를 입력하는 부분
